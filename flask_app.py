@@ -36,5 +36,5 @@ def predict():
 
 
 
-if __name__ == "__main__":
-    app.run(port=8080, debug=False)
+#if __name__ == "__main__":
+app.run(debug=False) #port=8080, 
